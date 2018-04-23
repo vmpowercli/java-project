@@ -11,17 +11,17 @@ pipeline {
 
     }
 
-post {
+#post {
 
-always {
+#always {
 
-archive 'dist/*.jar'
-
-
-}
+#archive 'dist/*.jar'
 
 
-}
+#}
+
+
+#}
 
 
 
